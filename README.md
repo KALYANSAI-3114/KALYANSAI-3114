@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Atchi Kalyan Sai (KALYANSAI-3114)
 
 ## 🔍 About Me
-I'm a final-year B.Tech CSE student specializing in **IoT & Cybersecurity**, with a deep interest in **AI, Machine Learning**, and ** software development**.
+I'm a final-year B.Tech CSE student specializing in **IoT & Cybersecurity**, with a deep interest in **AI, Machine Learning**
 
 - 🔐 Passionate about solving real-world problems in AI.
 - 💻 Experienced in building and deploying ML-powered web applications.
