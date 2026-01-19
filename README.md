@@ -44,7 +44,7 @@
 ## 💼 Professional Experience
 
 ### 🔹 **AI Engineer Intern** – *KodeMelon Technologies*
-📅 *Aug 2025 – Present | Remote*
+📅 *Aug 2025 – Dec 2025 | Remote*
 
 - **Built** a full-stack image analytics system that detects faces, classifies emotions, and retrieves the most similar dataset images via deep embedding similarity search — improving emotion recognition analysis efficiency by **90%**
 - **Developed and deployed** an LLM-based chatbot using BERT and Servam API, automating client communication and reducing average response time by **45%**
