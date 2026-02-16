@@ -191,16 +191,5 @@ I'm always excited to collaborate on AI/ML projects or discuss innovative ideas!
 **🌐 Portfolio:** [View my work](https://kalyansai3114-protfolio.netlify.app/)  
 **💻 LeetCode:** [KALYANSAI3114](https://leetcode.com/u/KALYANSAI3114/)
 
-<img src="https://komarev.com/ghpvc/?username=KALYANSAI-3114&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Transforming AI research into real-world impact, one project at a time" ⚡
-
-**⭐️ From [KALYANSAI-3114](https://github.com/KALYANSAI-3114)**
 
 </div>
